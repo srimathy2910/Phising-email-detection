@@ -139,9 +139,9 @@ To demonstrate how Machine Learning and Natural Language Processing can be appli
 
 ## 👩‍💻 Author
 
-**AKCHAR V S**
+**SRIMATHY R**
 
-GitHub: [akchar1429](https://github.com/akchar1429)
+GitHub: [srimathy2910](https://github.com/srimathy2910)
 
 ---
 
